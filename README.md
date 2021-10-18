@@ -30,3 +30,6 @@ service.start(queue: .main)
 ```
 
 More details of USBFilterRequest are placed in corresponding file USBFilterRequest.swift
+
+
+Tags: USB Filter BigSur Monterey, USB Filter DEXT DriverKit Driver DeviceControl
